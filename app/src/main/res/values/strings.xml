@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Banco de dados</string>
+    <string name="nome">Nome</string>
+    <string name="endere_o">Endereço</string>
+    <string name="profiss_o">Profissão</string>
+    <string name="novo">Novo</string>
+    <string name="gravar">Gravar</string>
+    <string name="apagar">Apagar</string>
+    <string name="pesquisar">Pesquisar...</string>
+    <string name="search">Search</string>
+
+</resources>
